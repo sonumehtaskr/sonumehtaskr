@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a web developer with a passion for building responsive and scalable web applications. My focus is on front-end and back-end development, utilizing modern technologies to create seamless user experiences. I also have a solid understanding of C++ and enjoy tackling performance-oriented projects.
 
 ---
-https://github-readme-streak-stats.herokuapp.com/?user=sonumehtaskr&theme=radical
----
-https://github-readme-stats.vercel.app/api/top-langs/?username=sonumehtaskr&layout=compact&langs_count=6&theme=radical
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sonumehtaskr&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonumehtaskr&layout=compact&langs_count=6&theme=radical)
+
 ---
 
 ### 🔭 **About Me**
