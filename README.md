@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm a web developer with a passion for building re
 
 - 📧 Email: [sonumehtaskr@gmail.com](mailto:sonumehtaskr@gmail.com)
 - 🌐 LinkedIn: [Sonu Kumar](https://www.linkedin.com/in/sonumehtaskr)
-- 📱 Phone: +91 79707 23092
 
 ---
 
