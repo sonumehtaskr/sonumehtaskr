@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a web developer with a passion for building re
 ---
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sonumehtaskr&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonumehtaskr&layout=compact&langs_count=6&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonumehtaskr&layout=compact&langs_count=8&theme=radical)
 
 ---
 
